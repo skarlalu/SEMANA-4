@@ -1,4 +1,4 @@
-
+Estudiante: Karla Daniela Luque Navarrete
 Este proyecto es una aplicación de consola en Python que simula la gestión básica de un restaurante aplicando los conceptos fundamentales de la Programación Orientada a Objetos y la organización modular.
 
 La solución separa las responsabilidades dividiendo el sistema en modelos independientes, un servicio controlador y un script principal de ejecución.
